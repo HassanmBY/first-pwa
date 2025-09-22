@@ -8,7 +8,7 @@
 	"start_url": "index.html",
 	"display": "standalone",
 	"theme_color": "#515151",
-	"background_color": "#aaaaff",
+	"background_color": "#aaaaff50",
 	"prefer_related_applications": false,
 	"related_applications": [
 		{ "platform": "play", "id": "com.exemple.monapp" },
